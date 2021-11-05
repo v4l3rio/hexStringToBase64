@@ -1,0 +1,20 @@
+{
+  "name": "esercizio_tirocinio",
+  "version": "1.0.0",
+  "description": "program that allows you to convert a hexadecimal string into a base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "hex",
+    "base64",
+    "string",
+    "conversion"
+  ],
+  "author": "Valerio Di Zio",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
